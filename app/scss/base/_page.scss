@@ -1,0 +1,18 @@
+body {
+  background: #fafafa;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  color: #333;
+}
+
+.flex-display{
+  display:flex;
+  flex-wrap: wrap;
+}
+.vertical-center{
+  display: flex;
+  align-items: center;
+}
+
+.display-none{
+  display:none;
+}
