@@ -4,7 +4,7 @@
   "description": "React starter kit",
   "main": "app.js",
   "scripts": {
-    "start": "webpack-dev-server --colors --content-base app/",
+    "start": "webpack-dev-server --progress --colors --inline --content-base app/",
     "test": "",
     "lint": "eslint app/***"
   },
